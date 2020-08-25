@@ -1,0 +1,18 @@
+{
+  "name": "untitled9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "stream-to-array": "^2.3.0",
+    "telegraf": "^3.38.0"
+  }
+}
